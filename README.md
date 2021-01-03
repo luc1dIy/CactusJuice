@@ -4,6 +4,10 @@
 
 CactusJuice -- a _(relatively?)_ simple Minecraft plugin targetting Paper.
 
+## Dependencies
+
+[NBTAPI](https://www.spigotmc.org/resources/nbt-api.7939/) (place in plugins folder)
+
 ## How to use
 
 1. Craft a tap (recipe in the items section)
