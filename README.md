@@ -3,7 +3,7 @@
 ## About
 
 CactusJuice -- a _(relatively?)_ simple Minecraft plugin targetting Paper. \
-You can download releases [**here**](https://github.com/luc1dIy/CactusJuice/releases/).
+You can download releases [here](https://github.com/luc1dIy/CactusJuice/releases/).
 
 ## Dependencies
 
