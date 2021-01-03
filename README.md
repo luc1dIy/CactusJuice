@@ -42,7 +42,7 @@ Reloads the config. \
 The device used to tap cactus juice from cacti. \
 **(cactusjuice.item.cactus_tap)** \
 ![Tap recipe](https://i.imgur.com/TVTTiLo.png) \
-\* *You can use any sort of wood and place the items in any shape.*
+\* *You can use any sort of planks and place the items in any shape.*
 
 >Cactus Juice
 
