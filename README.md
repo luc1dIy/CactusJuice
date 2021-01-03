@@ -6,7 +6,7 @@ CactusJuice -- a _(relatively?)_ simple Minecraft plugin targetting Paper.
 
 ## How to use
 
-1. Craft a tap (recipe below)
+1. Craft a tap (recipe in the items section)
 2. Right click a cactus to tap it
 3. Enjoy your cactus juice!
 
@@ -41,7 +41,8 @@ Reloads the config. \
 
 The device used to tap cactus juice from cacti. \
 **(cactusjuice.item.cactus_tap)** \
-![Tap recipe](https://i.imgur.com/TVTTiLo.png)
+![Tap recipe](https://i.imgur.com/TVTTiLo.png) \
+\* *You can use any sort of wood and place the items in any shape.*
 
 >Cactus Juice
 
