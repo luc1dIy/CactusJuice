@@ -21,7 +21,6 @@ public class CactusJuice extends JavaPlugin {
 	@Override
 	public void onEnable() {
 		CactusJuice.plugin = this;
-		// TagsPlugin.listener = new TagsListener();
 		CactusJuice.log = this.getLogger();
 
 		if (!(new File(plugin.getDataFolder(), "config.yml").exists())) {
@@ -33,7 +32,5 @@ public class CactusJuice extends JavaPlugin {
 		new PermissionManager(plugin);
 		new ItemManager(plugin);
 		new CommandManager(plugin);
-
-		// pluginManager.registerEvents(listener, plugin);
 	}
 }
