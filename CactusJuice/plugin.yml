@@ -1,0 +1,11 @@
+name: CactusJuice
+author: jef
+main: wtf.jef.cactusjuice.CactusJuice
+version: 0.0.1
+api-version: 1.16
+depend: [NBTAPI]
+commands:
+   cactusjuice:
+      description: The main Cactus Juice command.
+      usage: /<command> [help|give|reload]
+      aliases: [cj]

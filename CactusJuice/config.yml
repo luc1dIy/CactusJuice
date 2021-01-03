@@ -1,0 +1,17 @@
+items:
+   cactus_tap:
+      max_durability: 300
+      # The max durability of the tap.
+      
+      durability_cost: 25
+      # The durability cost per use.
+      
+      break_cactus: true
+      # Whether to break the cactus or not.
+      
+      drop_cactus: false
+      # Whether to drop the cactus when it is broken or not.
+      
+   cactus_juice:
+      duration: 200
+      # The duration of the effects (in milliseconds).
