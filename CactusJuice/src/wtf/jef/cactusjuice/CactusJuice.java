@@ -29,6 +29,7 @@ public class CactusJuice extends JavaPlugin {
 
 		plugin.reloadConfig();
 
+		// perms -> items -> commands
 		new PermissionManager(plugin);
 		new ItemManager(plugin);
 		new CommandManager(plugin);
