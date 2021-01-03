@@ -16,7 +16,7 @@ CactusJuice -- a _(relatively?)_ simple Minecraft plugin targetting Paper.
 
 >/cj
 
-The main Cactus Juice command. This command has subcommands (listed below),
+The main Cactus Juice command. This command has subcommands (listed below), \
 but defaults to **/cj help** if no subcommand is given. \
 **(cactusjuice.command)**
 
