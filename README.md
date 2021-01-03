@@ -2,7 +2,8 @@
 
 ## About
 
-CactusJuice -- a _(relatively?)_ simple Minecraft plugin targetting Paper.
+CactusJuice -- a _(relatively?)_ simple Minecraft plugin targetting Paper. \
+You can download releases [**here**](https://github.com/luc1dIy/CactusJuice/releases/).
 
 ## Dependencies
 
@@ -13,8 +14,6 @@ CactusJuice -- a _(relatively?)_ simple Minecraft plugin targetting Paper.
 1. Craft a tap (recipe in the items section)
 2. Right click a cactus to tap it
 3. Enjoy your cactus juice!
-
-![Tap recipe](https://i.imgur.com/TVTTiLo.png)
 
 ## Commands
 
