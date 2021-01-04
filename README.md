@@ -23,12 +23,12 @@ The main Cactus Juice command. This command has subcommands (listed below), \
 but defaults to **/cj help** if no subcommand is given. \
 **(cactusjuice.command)**
 
->/cj help [command]
+>/cj help \[command\]
 
 Shows you a list of commands or how to use a specific command. \
 **(cactusjuice.command.help)**
 
->/cj give <item>
+>/cj give \<item\>
 
 Spawns an item and places it in your inventory. \
 **(cactusjuice.command.give)**
